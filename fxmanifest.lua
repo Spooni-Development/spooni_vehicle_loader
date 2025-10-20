@@ -7,6 +7,7 @@ use_experimental_fxv2_oal 'yes'
 
 author 'Spooni'
 description 'Vehicle Spawner'
+version '2'
 
 server_scripts {
     'server/*.lua',
